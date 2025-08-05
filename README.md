@@ -9,7 +9,7 @@ copper armor
 
 copper tools
 
-(will add more in the futre because it took me 2 hours)
+(will add more in the future because it took me 2 hours)
 
 https://modrinth.com/mod/copper-update-backport
 
